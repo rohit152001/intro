@@ -1,3 +1,4 @@
 Name:Force
 Age:19
 Hobbies:Football,Cycling,Reading,Singing,Dancing
+Currently studying B.Tech in Computer Science.
